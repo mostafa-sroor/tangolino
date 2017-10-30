@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="myApp" ng-init="fname='Mostafa';lname='Srour';age=34;">
+<head>
+    <meta charset="UTF-8">
+    <title>AngularJS Test</title>
+    <script type="text/javascript" src="angular/angular.min.js"></script>
+    <script type="text/javascript" src="angular/angular-route.min.js"></script>
+    <script type="text/javascript" src="js/main.js"></script>
+
+</head>
+<body>
+<p> <strong style="color: #DD1144"> {{fname}} {{lname}}, {{age}} </strong>  </p>
+<hr>
+<div ng-controller="myCtr">
+    <ul ng-repeat="name in names">
+        <li><strong> {{name}} </strong> </li>
+    </ul>
+    <hr>
+    <p> <strong style="color: #00aaff">  {{degree}}  </strong> </p>
+<hr>
+    <input type="text" ng-model="searching" />
+    <table>
+        <tr ng-repeat="friend in friends|filter:searching">
+            <td><img ng-src="images/{{friend.image}}" width="60px" height="60px"/> </td>
+            <td><h3> {{friend.name}}</h3></td>
+
+        </tr>
+    </table>
+</div>
+<hr>
+<div ng-controller="newsCtr">
+    <p>Name : <input type="text" ng-model="updatename" width="100%" /></p>
+    <p>Desc : <textarea ng-model="updatedesc"> </textarea></p>
+
+    <hr>
+    <input type="text" ng-model="searchit" />
+    <table>
+        <tr ng-repeat="n in news|filter:searchit">
+            <td> <h3> {{n.title}}</h3>
+            <p> <img ng-src="{{n.thumbnail}}" width=120px" height="120px"/></p>
+            <p> <input type="button" ng-click="clickme(n.title , n.content)"  value="view news"/> </p>
+            </td>
+            <td>{{n.content}}</td>
+        </tr>
+    </table>
+    <hr>
+
+
+
+</div>
+</body>
+</html>

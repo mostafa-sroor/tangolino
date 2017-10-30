@@ -1,0 +1,41 @@
+Message-ID: <68c0c4171310f5c6e688d501181f39b2@localhost>
+Date: Mon, 06 Mar 2017 10:07:24 +0100
+Subject: New message in the guestbook.
+From: sroorora994@gmail.com
+To: sroorora994@gmail.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_v4_1488791244_096ee312457c3d0ff4a6247a53647286_=_"
+
+
+--_=_swift_v4_1488791244_096ee312457c3d0ff4a6247a53647286_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+User Third user leaved message in your guestbook.
+You can view it here.
+
+--_=_swift_v4_1488791244_096ee312457c3d0ff4a6247a53647286_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+    <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3=
+.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+    <html xmlns=3D"http://www.w3.o=
+rg/1999/xhtml">
+    <head>
+        <meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8" />
+        <title>New message in the=
+ guestbook.</title>
+            </head>
+    <body>
+        <p>User <b=
+>Third user</b> leaved message in your guestbook.</p>
+<p>You can view it =
+<a href=3D"http://localhost:8888/yii2master/shop/admin/guestbook/a/view/3">=
+here</a>.</p>        </body>
+    </html>
+
+
+--_=_swift_v4_1488791244_096ee312457c3d0ff4a6247a53647286_=_--

@@ -1,0 +1,1143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c6af0141-83d9-4ae6-8a60-e49bf42227ed" name="Default" comment="" />
+    <ignored path="shop.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="shop" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>right-arrow.png</find>
+      <find>tangolino_text</find>
+      <find>menu-toggle</find>
+      <find>dot</find>
+      <find>by-dotcom</find>
+      <find>loading_div</find>
+      <find>loading_d</find>
+      <find>loader</find>
+      <find>#content .row .product-layout</find>
+      <find>margin-top: 11px;</find>
+      <find>$margin</find>
+      <find>.tangolino-wrapper .tangolino-slider-widget .product-column .product-details .product-name</find>
+      <find>location.href</find>
+      <find>#format</find>
+      <find>detail-box</find>
+      <find>.tangolino-wrapper .product-detail-widget .text-col .spec-div label</find>
+      <find>$format</find>
+      <find>product-detail-widget</find>
+      <find>product-detail-widget-</find>
+      <find>*, :after, :before</find>
+      <find>cropProductImage</find>
+      <find>main_background_image</find>
+      <find>cropProductDetailedImage</find>
+      <find>-wrapper</find>
+      <find>Product Views (Collage)</find>
+      <find>total-items-views-by-country</find>
+      <find>by-dotcom</find>
+      <find>DOTCOM</find>
+      <find>items_views_count_collage</find>
+      <find>Admin::STORE_TYPE</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\wamp64\www\yii2master\shop</dir>
+      <dir>C:\wamp64\www\yii2master\shop\vendor</dir>
+    </dirStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/vendor/noumo/easyii/modules/look/views/a/shoppable_content.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test_collage.php" />
+        <option value="$PROJECT_DIR$/vendor/noumo/easyii/modules/look/views/a/shoppable_content_25_9_2017-2.php" />
+        <option value="$PROJECT_DIR$/bootstrap_test_collage.php" />
+        <option value="$PROJECT_DIR$/bootstrap_test_leaderboard4.php" />
+        <option value="$PROJECT_DIR$/bootstrap_test_collage3.php" />
+        <option value="$PROJECT_DIR$/bootstrap_test_leaderboard.php" />
+        <option value="$PROJECT_DIR$/bootstrap_tagged_skyscraper.php" />
+        <option value="$PROJECT_DIR$/bootstrap_tagged_leaderboard.php" />
+        <option value="$PROJECT_DIR$/bootstrap_tagged_mpu.php" />
+        <option value="$PROJECT_DIR$/vendor/noumo/easyii/modules/look/views/a/shoppable_content_20_9_2017.php" />
+        <option value="$PROJECT_DIR$/vendor/noumo/easyii/modules/look/views/a/embed_code.php" />
+        <option value="$PROJECT_DIR$/vendor/noumo/easyii/modules/look/views/a/tagged_embed_code.php" />
+        <option value="$PROJECT_DIR$/vendor/noumo/easyii/models/Theme.php" />
+        <option value="$PROJECT_DIR$/vendor/noumo/easyii/views/theme/create.php" />
+        <option value="$PROJECT_DIR$/vendor/noumo/easyii/views/theme/edit.php" />
+        <option value="$PROJECT_DIR$/vendor/noumo/easyii/controllers/ThemeController.php" />
+        <option value="$PROJECT_DIR$/vendor/noumo/easyii/media/import/scripts.js" />
+        <option value="$PROJECT_DIR$/vendor/noumo/easyii/views/theme/_form.php" />
+        <option value="$PROJECT_DIR$/skyscraper_widget.html" />
+        <option value="$PROJECT_DIR$/slider_leaderboard.php" />
+        <option value="$PROJECT_DIR$/skyscraper_widget.php" />
+        <option value="$USER_HOME$/Desktop/tangolino/website/css/stylish-portfolio.css" />
+        <option value="$USER_HOME$/Desktop/tangolino/website/index.html" />
+        <option value="$PROJECT_DIR$/vendor/noumo/easyii/modules/look/views/a/create_tag_image.php" />
+        <option value="$PROJECT_DIR$/vendor/noumo/easyii/modules/tagged/views/a/create.php" />
+        <option value="$PROJECT_DIR$/vendor/noumo/easyii/modules/tagged/views/a/edit.php" />
+        <option value="$PROJECT_DIR$/vendor/noumo/easyii/modules/look/views/a/create.php" />
+        <option value="$PROJECT_DIR$/vendor/noumo/easyii/modules/look/views/a/edit.php" />
+        <option value="$PROJECT_DIR$/vendor/noumo/easyii/modules/look/views/a/view.php" />
+        <option value="$PROJECT_DIR$/vendor/noumo/easyii/modules/look/controllers/AController.php" />
+        <option value="$PROJECT_DIR$/vendor/noumo/easyii/modules/look/views/a/shoppable_content.php" />
+        <option value="$PROJECT_DIR$/vendor/noumo/easyii/models/Admin.php" />
+        <option value="$PROJECT_DIR$/vendor/noumo/easyii/modules/catalog/controllers/ItemsController.php" />
+        <option value="$USER_HOME$/Desktop/website/index.html" />
+        <option value="$PROJECT_DIR$/vendor/noumo/easyii/modules/catalog/views/a/list.php" />
+        <option value="$PROJECT_DIR$/vendor/noumo/easyii/modules/look/controllers/CropController.php" />
+        <option value="$PROJECT_DIR$/vendor/noumo/easyii/modules/catalog/views/items/_form2.php" />
+        <option value="$PROJECT_DIR$/vendor/noumo/easyii/modules/catalog/views/items/_form.php" />
+        <option value="$PROJECT_DIR$/angular_website/index2.html" />
+        <option value="$PROJECT_DIR$/angular_website/js/main.js" />
+        <option value="$PROJECT_DIR$/angular_website/js/controller.js" />
+        <option value="$PROJECT_DIR$/angular_website/js/app.js" />
+        <option value="$PROJECT_DIR$/angular_website/partial/item1.html" />
+        <option value="$PROJECT_DIR$/angular_website/partial/item2.html" />
+        <option value="$PROJECT_DIR$/angular_website/index.html" />
+        <option value="$PROJECT_DIR$/vendor/noumo/easyii/modules/look/views/a/tagged_photo.php" />
+        <option value="$PROJECT_DIR$/angular/js/main.js" />
+        <option value="$PROJECT_DIR$/angular/index.html" />
+        <option value="$PROJECT_DIR$/vendor/noumo/easyii/views/layouts/main.php" />
+        <option value="$PROJECT_DIR$/vendor/noumo/easyii/controllers/DefaultController.php" />
+        <option value="$PROJECT_DIR$/vendor/noumo/easyii/controllers/ReportController.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1370" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers ProjectPane="true" />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource ProjectPane="true" />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shop" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shop" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shop" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="noumo" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="easyii" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shop" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="noumo" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="easyii" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shop" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="noumo" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="easyii" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ReportController.php" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpFileNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ReportController" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="remote&#9;ACTION&#9;WebDeployment.BrowseServers" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\yii2master\shop\vendor\noumo\easyii\modules\catalog\views\a" />
+      <recent name="$PROJECT_DIR$/vendor/noumo/easyii/views/report" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\yii2master\shop\angular_website\partial" />
+      <recent name="C:\wamp64\www\yii2master\shop\angular_website" />
+      <recent name="C:\wamp64\www\yii2master\shop" />
+      <recent name="C:\wamp64\www\yii2master\shop\vendor\noumo\easyii\modules\look\views\a" />
+      <recent name="C:\wamp64\www\yii2master\shop\vendor\noumo\easyii\views\theme" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server" server_id="cc4e5a1b-8ac3-421a-9872-4b9016afb703" server_name="Tangolino">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="StructuralSearchPlugin">
+    <replaceConfiguration name="user defined" created="1489147372491" text="col-lg-4" recursive="false" caseInsensitive="true" type="HTML" reformatAccordingToStyle="true" shortenFQN="true" useStaticImport="true" replacement="col-lg-3" history="1" />
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6af0141-83d9-4ae6-8a60-e49bf42227ed" name="Default" comment="" />
+      <created>1488791706162</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1488791706162</updated>
+      <workItem from="1500447754167" duration="3090000" />
+      <workItem from="1500453607182" duration="12309000" />
+      <workItem from="1500531265917" duration="17143000" />
+      <workItem from="1500619597097" duration="1153000" />
+      <workItem from="1500621210152" duration="188000" />
+      <workItem from="1500622030329" duration="7071000" />
+      <workItem from="1500882701346" duration="15171000" />
+      <workItem from="1500962949691" duration="2726000" />
+      <workItem from="1500967235277" duration="12014000" />
+      <workItem from="1501049127155" duration="15378000" />
+      <workItem from="1501136063167" duration="13945000" />
+      <workItem from="1501222719300" duration="14915000" />
+      <workItem from="1501518616012" duration="12527000" />
+      <workItem from="1501535497578" duration="2773000" />
+      <workItem from="1501604478435" duration="21377000" />
+      <workItem from="1501690986343" duration="13164000" />
+      <workItem from="1501777568911" duration="12758000" />
+      <workItem from="1501863572448" duration="18260000" />
+      <workItem from="1502122331004" duration="1928000" />
+      <workItem from="1502124927983" duration="19342000" />
+      <workItem from="1502208651307" duration="20846000" />
+      <workItem from="1502310670022" duration="9664000" />
+      <workItem from="1502380519291" duration="22053000" />
+      <workItem from="1502727229516" duration="17063000" />
+      <workItem from="1502900235698" duration="19651000" />
+      <workItem from="1502986845320" duration="19592000" />
+      <workItem from="1503073387059" duration="20149000" />
+      <workItem from="1503331327938" duration="113000" />
+      <workItem from="1503336913306" duration="17752000" />
+      <workItem from="1503420255760" duration="15000000" />
+      <workItem from="1503506850557" duration="19366000" />
+      <workItem from="1503591444244" duration="1344000" />
+      <workItem from="1503595173284" duration="13879000" />
+      <workItem from="1503678306583" duration="21021000" />
+      <workItem from="1503944182694" duration="18307000" />
+      <workItem from="1504024700719" duration="18202000" />
+      <workItem from="1504109449659" duration="20712000" />
+      <workItem from="1504197191435" duration="10244000" />
+      <workItem from="1504543315833" duration="20670000" />
+      <workItem from="1504628846305" duration="9096000" />
+      <workItem from="1504642422726" duration="4853000" />
+      <workItem from="1504715931147" duration="21301000" />
+      <workItem from="1504801425830" duration="1769000" />
+      <workItem from="1504803293801" duration="21607000" />
+      <workItem from="1504887372604" duration="18989000" />
+      <workItem from="1505147450469" duration="1591000" />
+      <workItem from="1505149241531" duration="1795000" />
+      <workItem from="1505151071554" duration="14099000" />
+      <workItem from="1505233642299" duration="4000" />
+      <workItem from="1505233802450" duration="21760000" />
+      <workItem from="1505318805659" duration="20764000" />
+      <workItem from="1505405260564" duration="15081000" />
+      <workItem from="1505492339250" duration="12145000" />
+      <workItem from="1505751022605" duration="13282000" />
+      <workItem from="1505837135963" duration="18950000" />
+      <workItem from="1505924518449" duration="13082000" />
+      <workItem from="1506096785333" duration="4876000" />
+      <workItem from="1506355562879" duration="8000" />
+      <workItem from="1506355596972" duration="20955000" />
+      <workItem from="1506442174656" duration="19779000" />
+      <workItem from="1506529382713" duration="15000" />
+      <workItem from="1506529674078" duration="19702000" />
+      <workItem from="1506615672919" duration="11968000" />
+      <workItem from="1506701077082" duration="10778000" />
+      <workItem from="1506961280292" duration="5742000" />
+      <workItem from="1507047201159" duration="11724000" />
+      <workItem from="1507132768915" duration="17811000" />
+      <workItem from="1507219201722" duration="8534000" />
+      <workItem from="1507305703645" duration="7942000" />
+      <workItem from="1507566679590" duration="5587000" />
+      <workItem from="1507652476703" duration="3961000" />
+      <workItem from="1507738564923" duration="6012000" />
+      <workItem from="1507829278587" duration="6366000" />
+      <workItem from="1507911110269" duration="7170000" />
+      <workItem from="1508171605017" duration="16342000" />
+      <workItem from="1508256752080" duration="14606000" />
+      <workItem from="1508343331722" duration="1978000" />
+      <workItem from="1508434151584" duration="6519000" />
+      <workItem from="1508520544438" duration="2016000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="943419000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1370" height="744" extended-state="0" />
+    <layout>
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20726173" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29438543" sideWeight="0.48772505" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32569557" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3827534" sideWeight="0.512275" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32569557" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3878887" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40915805" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38801262" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/vendor/noumo/easyii/modules/article/controllers/ItemsController.php</url>
+          <line>83</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/app/views/news/test.php</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/app/views/news/entry.php</url>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/vendor/noumo/easyii/widgets/Photos.php</url>
+          <line>3</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/vendor/noumo/easyii/components/CategoryModel.php</url>
+          <line>3</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/vendor/noumo/easyii/components/GoogleShortUrl.php</url>
+          <line>9</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/vendor/noumo/easyii/components/GoogleShortUrl.php</url>
+          <line>17</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/vendor/noumo/easyii/modules/look/controllers/AController.php</url>
+          <line>345</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/vendor/noumo/easyii/modules/look/controllers/AController.php</url>
+          <line>1048</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/vendor/noumo/easyii/modules/look/controllers/AController.php</url>
+          <line>1148</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/vendor/noumo/easyii/modules/look/controllers/AController.php</url>
+          <line>80</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/vendor/noumo/easyii/controllers/AdminsController.php</url>
+          <line>20</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/vendor/noumo/easyii/controllers/ReportController.php</url>
+          <line>146</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/vendor/noumo/easyii/modules/look/controllers/AController.php</url>
+          <line>749</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/vendor/noumo/easyii/modules/look/controllers/AController.php</url>
+          <line>347</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/vendor/noumo/easyii/modules/look/controllers/AController.php</url>
+          <line>193</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/vendor/noumo/easyii/controllers/ReportController.php</url>
+          <line>542</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/vendor/noumo/easyii/controllers/ReportController.php</url>
+          <line>638</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/vendor/noumo/easyii/modules/look/controllers/CropController.php</url>
+          <line>111</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/vendor/noumo/easyii/views/theme/_form.php</url>
+          <line>553</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="33" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/vendor/noumo/easyii/modules/look/views/a/_submenu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skyscraper_widget.html" />
+    <entry file="file://$PROJECT_DIR$/store_front.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/slider_leaderboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="41" column="28" lean-forward="false" selection-start-line="41" selection-start-column="11" selection-end-line="41" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skyscraper_widget.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="31" lean-forward="false" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/tangolino/website/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="36" lean-forward="false" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/tangolino/website/css/stylish-portfolio.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="13" column="41" lean-forward="false" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uploads/icons/create.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="5828" column="34" lean-forward="false" selection-start-line="5828" selection-start-column="34" selection-end-line="5828" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/noumo/easyii/modules/look/views/a/create_mostafa.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2057">
+          <caret line="124" column="5" lean-forward="false" selection-start-line="124" selection-start-column="5" selection-end-line="124" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/noumo/easyii/modules/tagged/views/a/edit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8092">
+          <caret line="481" column="7" lean-forward="false" selection-start-line="481" selection-start-column="7" selection-end-line="481" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/noumo/easyii/modules/tagged/views/a/create.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100810">
+          <caret line="5935" column="0" lean-forward="false" selection-start-line="5935" selection-start-column="0" selection-end-line="5935" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/noumo/easyii/modules/look/views/a/create.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="24" column="21" lean-forward="false" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/noumo/easyii/modules/look/views/a/edit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1411">
+          <caret line="91" column="0" lean-forward="false" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/noumo/easyii/views/report/create_tagged_reports.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2737">
+          <caret line="170" column="35" lean-forward="false" selection-start-line="170" selection-start-column="24" selection-end-line="170" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/noumo/easyii/modules/look/views/a/view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="3994" column="0" lean-forward="false" selection-start-line="3994" selection-start-column="0" selection-end-line="3994" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/noumo/easyii/modules/look/views/a/create_tag_image.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="523">
+          <caret line="3516" column="0" lean-forward="false" selection-start-line="3516" selection-start-column="0" selection-end-line="3516" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/noumo/easyii/models/Admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1938">
+          <caret line="114" column="0" lean-forward="false" selection-start-line="114" selection-start-column="0" selection-end-line="114" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products_right.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/website/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/noumo/easyii/modules/catalog/views/a/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/gd/gd.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="1043" column="9" lean-forward="false" selection-start-line="1043" selection-start-column="9" selection-end-line="1043" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/noumo/easyii/modules/catalog/views/a/list.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="3651" column="0" lean-forward="true" selection-start-line="3651" selection-start-column="0" selection-end-line="3651" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/noumo/easyii/modules/look/views/a/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="93" column="16" lean-forward="false" selection-start-line="93" selection-start-column="16" selection-end-line="93" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/noumo/easyii/modules/look/controllers/CropController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1076">
+          <caret line="167" column="36" lean-forward="true" selection-start-line="167" selection-start-column="36" selection-end-line="167" selection-end-column="36" />
+          <folding>
+            <element signature="e#1027#3695#0#PHP" expanded="false" />
+            <element signature="e#7480#9699#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/noumo/easyii/modules/look/views/a/shoppable_content.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="9259" column="15" lean-forward="false" selection-start-line="9259" selection-start-column="15" selection-end-line="9259" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/noumo/easyii/assets/ColorPickerAsset.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="6" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/noumo/easyii/modules/catalog/views/items/_form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="27" column="69" lean-forward="true" selection-start-line="27" selection-start-column="69" selection-end-line="27" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/noumo/easyii/modules/catalog/views/items/_form2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="727">
+          <caret line="274" column="0" lean-forward="false" selection-start-line="274" selection-start-column="0" selection-end-line="274" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/noumo/easyii/views/theme/_form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="385" column="57" lean-forward="false" selection-start-line="385" selection-start-column="36" selection-end-line="385" selection-end-column="57" />
+          <folding>
+            <element signature="e#6#27#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular_website/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="39" lean-forward="false" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular_website/index2.html" />
+    <entry file="file://$PROJECT_DIR$/angular_website/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="21" lean-forward="false" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular_website/index4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular_website/partial/item1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular_website/partial/item2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular_website/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="28" column="31" lean-forward="false" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular_website/js/controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/noumo/easyii/modules/look/views/a/tagged_photo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="518">
+          <caret line="9926" column="35" lean-forward="true" selection-start-line="9926" selection-start-column="35" selection-end-line="9926" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="77" lean-forward="false" selection-start-line="7" selection-start-column="77" selection-end-line="7" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="23" column="32" lean-forward="false" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/noumo/easyii/modules/catalog/controllers/ItemsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="199" column="34" lean-forward="true" selection-start-line="199" selection-start-column="34" selection-end-line="199" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/noumo/easyii/modules/look/models/Look.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="135" column="16" lean-forward="true" selection-start-line="135" selection-start-column="16" selection-end-line="136" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/noumo/easyii/modules/look/controllers/AController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-883">
+          <caret line="1049" column="97" lean-forward="false" selection-start-line="1049" selection-start-column="97" selection-end-line="1049" selection-end-column="97" />
+          <folding>
+            <element signature="e#2452#2985#0#PHP" expanded="false" />
+            <element signature="e#2991#4252#0#PHP" expanded="false" />
+            <element signature="e#4258#5337#0#PHP" expanded="false" />
+            <element signature="e#5343#6261#0#PHP" expanded="false" />
+            <element signature="e#6267#6648#0#PHP" expanded="false" />
+            <element signature="e#12244#16839#0#PHP" expanded="false" />
+            <element signature="e#16845#22801#0#PHP" expanded="false" />
+            <element signature="e#27846#28235#0#PHP" expanded="false" />
+            <element signature="e#28241#29058#0#PHP" expanded="false" />
+            <element signature="e#37666#37744#0#PHP" expanded="false" />
+            <element signature="e#37750#38266#0#PHP" expanded="false" />
+            <element signature="e#38272#38760#0#PHP" expanded="false" />
+            <element signature="e#38766#39208#0#PHP" expanded="false" />
+            <element signature="e#39214#40145#0#PHP" expanded="false" />
+            <element signature="e#40151#43839#0#PHP" expanded="false" />
+            <element signature="e#43845#48301#0#PHP" expanded="false" />
+            <element signature="e#48515#49240#0#PHP" expanded="false" />
+            <element signature="e#54142#57639#0#PHP" expanded="false" />
+            <element signature="e#57645#61131#0#PHP" expanded="false" />
+            <element signature="e#61308#64184#0#PHP" expanded="false" />
+            <element signature="e#64209#64779#0#PHP" expanded="false" />
+            <element signature="e#67645#68501#0#PHP" expanded="false" />
+            <element signature="e#69742#76636#0#PHP" expanded="false" />
+            <element signature="e#76642#76818#0#PHP" expanded="false" />
+            <marker date="1507745686250" expanded="true" signature="8066:8115" ph="SELECT * FRO... easyii_catalog_items" />
+            <marker date="1507745686250" expanded="true" signature="8066:8154" ph="SELECT * FRO... easyii_catalog_items" />
+            <marker date="1507745686250" expanded="true" signature="13316:13640" ph="SELECT * FRO... easyii_catalog_items" />
+            <marker date="1507745686250" expanded="true" signature="18003:18328" ph="SELECT * FRO... easyii_catalog_items" />
+            <marker date="1507745686250" expanded="true" signature="23959:24008" ph="SELECT * FRO... easyii_catalog_items" />
+            <marker date="1507745686250" expanded="true" signature="23959:24047" ph="SELECT * FRO... easyii_catalog_items" />
+            <marker date="1507745686250" expanded="true" signature="30221:30299" ph="SELECT * FRO... easyii_catalog_items" />
+            <marker date="1507745686250" expanded="true" signature="30221:30338" ph="SELECT * FRO... easyii_catalog_items" />
+            <marker date="1507745686250" expanded="true" signature="31032:31231" ph="SELECT * FRO... easyii_catalog_items" />
+            <marker date="1507745686250" expanded="true" signature="31032:31291" ph="SELECT * FRO... easyii_catalog_items" />
+            <marker date="1507745686250" expanded="true" signature="31032:31311" ph="SELECT * FRO... easyii_catalog_items" />
+            <marker date="1507745686250" expanded="true" signature="31032:31358" ph="SELECT * FRO... easyii_catalog_items" />
+            <marker date="1507745686250" expanded="true" signature="35700:35778" ph="SELECT * FRO... easyii_catalog_items" />
+            <marker date="1507745686250" expanded="true" signature="35700:35817" ph="SELECT * FRO... easyii_catalog_items" />
+            <marker date="1507745686250" expanded="true" signature="41343:41421" ph="SELECT * FRO... easyii_catalog_items" />
+            <marker date="1507745686250" expanded="true" signature="41343:41460" ph="SELECT * FRO... easyii_catalog_items" />
+            <marker date="1507745686250" expanded="true" signature="46090:46154" ph="SELECT * FRO... easyii_catalog_items" />
+            <marker date="1507745686250" expanded="true" signature="46090:46169" ph="SELECT * FRO... easyii_catalog_items" />
+            <marker date="1507745686250" expanded="true" signature="46090:46191" ph="SELECT * FRO... easyii_catalog_items" />
+            <marker date="1507745686250" expanded="true" signature="46090:46207" ph="SELECT * FRO... easyii_catalog_items" />
+            <marker date="1507745686250" expanded="true" signature="46090:46308" ph="SELECT * FRO... easyii_catalog_items" />
+            <marker date="1507745686250" expanded="true" signature="46492:46560" ph="/*Yii::${$ap... " />
+            <marker date="1507745686250" expanded="true" signature="48871:48949" ph="SELECT * FRO... easyii_catalog_items" />
+            <marker date="1507745686250" expanded="true" signature="51211:51289" ph="SELECT * FRO... easyii_catalog_items" />
+            <marker date="1507745686250" expanded="true" signature="51211:51328" ph="SELECT * FRO... easyii_catalog_items" />
+            <marker date="1507745686250" expanded="true" signature="66019:66097" ph="SELECT * FRO... easyii_catalog_items" />
+            <marker date="1507745686250" expanded="true" signature="66019:66135" ph="SELECT * FRO... easyii_catalog_items" />
+            <marker date="1507745686250" expanded="true" signature="73077:73517" ph="INSERT INTO `easyii_look_views`... " />
+            <marker date="1507745686250" expanded="true" signature="74985:75425" ph="INSERT INTO `easyii_look_views`... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/noumo/easyii/views/default/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="594" column="44" lean-forward="false" selection-start-line="594" selection-start-column="16" selection-end-line="594" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/noumo/easyii/components/CategoryController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="192" column="28" lean-forward="false" selection-start-line="192" selection-start-column="28" selection-end-line="192" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/noumo/easyii/modules/catalog/controllers/AController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4539">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/noumo/easyii/views/layouts/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="46" column="25" lean-forward="true" selection-start-line="46" selection-start-column="25" selection-end-line="46" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/commands/DeleteController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-537">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/noumo/easyii/controllers/DefaultController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="225" column="46" lean-forward="false" selection-start-line="225" selection-start-column="29" selection-end-line="225" selection-end-column="46" />
+          <folding>
+            <marker date="1508448665020" expanded="true" signature="5518:5847" ph="SELECT COUNT... " />
+            <marker date="1508448665020" expanded="true" signature="5883:6255" ph="SELECT COUNT... " />
+            <marker date="1508448665020" expanded="true" signature="6386:6736" ph="SELECT COUNT... " />
+            <marker date="1508448665020" expanded="true" signature="6780:7166" ph="SELECT COUNT... " />
+            <marker date="1508448665020" expanded="true" signature="7304:7660" ph="SELECT COUNT... " />
+            <marker date="1508448665020" expanded="true" signature="7704:8098" ph="SELECT COUNT... " />
+            <marker date="1508448665020" expanded="true" signature="8235:8605" ph="SELECT COUNT... " />
+            <marker date="1508448665020" expanded="true" signature="8649:9066" ph="SELECT COUNT... " />
+            <marker date="1508448665020" expanded="true" signature="9202:9521" ph="SELECT COUNT... " />
+            <marker date="1508448665020" expanded="true" signature="9611:9971" ph="SELECT COUNT... " />
+            <marker date="1508448665020" expanded="true" signature="10056:10497" ph="SELECT COUNT... " />
+            <marker date="1508448665020" expanded="true" signature="10638:11046" ph="SELECT COUNT... " />
+            <marker date="1508448665020" expanded="true" signature="11128:11577" ph="SELECT COUNT... " />
+            <marker date="1508448665020" expanded="true" signature="11654:12147" ph="SELECT COUNT... " />
+            <marker date="1508448665020" expanded="true" signature="12285:12692" ph="SELECT COUNT... " />
+            <marker date="1508448665020" expanded="true" signature="12774:13222" ph="SELECT COUNT... " />
+            <marker date="1508448665020" expanded="true" signature="13299:13788" ph="SELECT COUNT... " />
+            <marker date="1508448665020" expanded="true" signature="13926:14332" ph="SELECT COUNT... " />
+            <marker date="1508448665020" expanded="true" signature="14414:14861" ph="SELECT COUNT... " />
+            <marker date="1508448665020" expanded="true" signature="14938:15464" ph="SELECT COUNT... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/noumo/easyii/controllers/ReportController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="205" column="38" lean-forward="false" selection-start-line="205" selection-start-column="38" selection-end-line="205" selection-end-column="38" />
+          <folding>
+            <element signature="e#41009#44308#0#PHP" expanded="false" />
+            <element signature="e#49042#51555#0#PHP" expanded="false" />
+            <marker date="1508448774395" expanded="true" signature="6190:8012" ph="SELECT IFNUL... easyii_catalog_items" />
+            <marker date="1508448774395" expanded="true" signature="9016:9089" ph="select admin... easyii_admins_reports" />
+            <marker date="1508448774395" expanded="true" signature="11249:12961" ph="SELECT IFNUL... easyii_looks" />
+            <marker date="1508448774395" expanded="true" signature="13902:13975" ph="select admin... easyii_admins_reports" />
+            <marker date="1508448774395" expanded="true" signature="16158:17888" ph="SELECT IFNUL... easyii_tagged_images" />
+            <marker date="1508448774395" expanded="true" signature="18791:18864" ph="select admin... easyii_admins_reports" />
+            <marker date="1508448774395" expanded="true" signature="21097:22927" ph="SELECT IFNUL... easyii_catalog_items" />
+            <marker date="1508448774395" expanded="true" signature="24064:24137" ph="select admin... easyii_admins_reports" />
+            <marker date="1508448774395" expanded="true" signature="26300:28019" ph="SELECT IFNUL... easyii_looks" />
+            <marker date="1508448774395" expanded="true" signature="29036:29109" ph="select admin... easyii_admins_reports" />
+            <marker date="1508448774395" expanded="true" signature="31300:32952" ph="SELECT IFNUL... easyii_tagged_images" />
+            <marker date="1508448774395" expanded="true" signature="33932:34005" ph="select admin... easyii_admins_reports" />
+            <marker date="1508448774395" expanded="true" signature="35303:35662" ph="SELECT easyi... easyii_reports" />
+            <marker date="1508448774395" expanded="true" signature="35703:36262" ph="SELECT easyi... easyii_reports" />
+            <marker date="1508448774395" expanded="true" signature="41678:42966" ph="SELECT easyi... easyii_looks" />
+            <marker date="1508448774395" expanded="true" signature="45412:47234" ph="SELECT IFNUL... easyii_catalog_items" />
+            <marker date="1508448774395" expanded="true" signature="49562:49960" ph="SELECT COUNT... easyii_catalog_items" />
+            <marker date="1508448774395" expanded="true" signature="50007:50304" ph="SELECT COUNT... easyii_catalog_items" />
+            <marker date="1508448774395" expanded="true" signature="52242:52688" ph="SELECT COUNT... ${$tbl_name}" />
+            <marker date="1508448774395" expanded="true" signature="52730:53034" ph="SELECT COUNT... ${$tbl_name}" />
+            <marker date="1508448774395" expanded="true" signature="54120:54774" ph="SELECT data COUNT" />
+            <marker date="1508448774395" expanded="true" signature="54240:54677" ph="SELECT COUNT... easyii_look_views" />
+            <marker date="1508448774395" expanded="true" signature="54816:55362" ph="SELECT data COUNT" />
+            <marker date="1508448774395" expanded="true" signature="54936:55265" ph="SELECT COUNT... easyii_look_views" />
+            <marker date="1508448774395" expanded="true" signature="56390:57156" ph="SELECT data COUNT" />
+            <marker date="1508448774395" expanded="true" signature="56510:57058" ph="SELECT COUNT... easyii_admins" />
+            <marker date="1508448774395" expanded="true" signature="57197:57854" ph="SELECT data COUNT" />
+            <marker date="1508448774395" expanded="true" signature="57317:57757" ph="SELECT COUNT... easyii_admins" />
+            <marker date="1508448774395" expanded="true" signature="62438:63950" ph="SELECT easyi... easyii_catalog_items" />
+            <marker date="1508448774395" expanded="true" signature="64371:65883" ph="SELECT easyi... easyii_catalog_items" />
+            <marker date="1508448774395" expanded="true" signature="66389:67888" ph="SELECT easyi... easyii_looks" />
+            <marker date="1508448774395" expanded="true" signature="68462:69962" ph="SELECT easyi... easyii_looks" />
+            <marker date="1508448774395" expanded="true" signature="70754:72285" ph="SELECT easyi... easyii_catalog_items" />
+            <marker date="1508448774395" expanded="true" signature="72869:74398" ph="SELECT easyi... easyii_catalog_items" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

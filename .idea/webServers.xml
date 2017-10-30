@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="cc4e5a1b-8ac3-421a-9872-4b9016afb703" name="Tangolino" url="http://tangolino.com">
+        <fileTransfer host="tangolino.com" port="2022" rootFolder="/var/www/vhosts/admin.tangolino.com/docroot" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="2022" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

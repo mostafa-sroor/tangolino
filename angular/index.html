@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="FirstModule">
+<head>
+    <meta charset="UTF-8">
+    <title>AngularJS Test 2</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script type="text/javascript" src="angular/angular.min.js"></script>
+    <script type="text/javascript" src="js/main.js"></script>
+
+
+</head>
+   <body ng-init="name='Mostafa'">
+
+   <div ng-controller="FisrtController">
+       FisrtController :  {{name}}
+        <hr>
+       FirstName  :   <input type="text" ng-model="person.FirstName" />
+       Age        :   <input type="text" ng-model="person.Age" />
+       Is Married :   <input type="checkbox" ng-model="person.IsMarried" />
+       <button ng-click="insertDB(person.FirstName , person.Age , person.IsMarried)">Register</button>
+       <hr>
+
+       <ul ng-repeat="f in friends">
+           <li> Name :{{f.name}}, Age:{{f.age}}</li>
+       </ul>
+
+   </div>
+   <hr>
+   <div ng-controller="SecondController">
+       SecondController :  {{name}}
+   </div>
+   <hr>
+   <div>
+      Root : {{name}}
+   </div>
+   <hr>
+
+   </body>
+</html>
